@@ -134,15 +134,15 @@ object SarveshSingh {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SinghhSarvesh">
+<a href="https://www.linkedin.com/in/singhh-sarvesh/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/SinghhSarvesh">
+<a href="https://x.com/singhh_sarvesh">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:sarveshsingh1240@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
