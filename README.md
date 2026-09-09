@@ -1,24 +1,4 @@
-<div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sarvesh%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=2nd%20Year%20CS%20Student%20%7C%20Aspiring%20Mobile%20App%20Developer%20%F0%9F%93%B1&descAlignY=60&descSize=17&descColor=7dd3fc"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sarvesh+Singh+%F0%9F%91%8B;2nd+Year+Computer+Science+Student+%F0%9F%8E%93;Learning+Mobile+App+Development+%F0%9F%93%B1;Building+My+First+Apps+%F0%9F%9A%80;Every+day+is+a+new+line+of+code+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SinghhSarvesh&label=Profile+Views&color=0ea5e9&style=flat-square"/>
-&nbsp;
-<a href="https://github.com/SinghhSarvesh?tab=followers">
-  <img src="https://img.shields.io/github/followers/SinghhSarvesh?label=Followers&style=flat-square&color=0ea5e9&labelColor=0f172a"/>
-</a>
-
-</div>
-
----
 
 ## 🙋‍♂️ About Me
 
