@@ -29,7 +29,7 @@ object SarveshSingh {
     val username    = "SinghhSarvesh"
     val location    = "India 🇮🇳"
     val education   = "B.Tech CSE — 3nd Year 🎓"
-    val learning    = "Mobile App Development 📱"
+    val learning    = "AI ENGINEER 📱"
     val languages   = listOf("Kotlin", "Dart", "Java", "Python", "C++")
     val frameworks  = listOf("Flutter", "Android Studio")
     val interests   = listOf("App Dev", "Open Source", "Problem Solving")
